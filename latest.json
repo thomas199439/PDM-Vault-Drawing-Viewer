@@ -1,6 +1,5 @@
 {
   "version": "8.5.0",
   "maintenance": false,
-  "notes": "9/25/2025 Released."
+  "notes": "9/25/2025 Released. Fixed an issue where the “Clear Local Cache” feature in PDM Vault was not functioning; enhanced overall user experience; added support for automatic version updates."
 }
-
