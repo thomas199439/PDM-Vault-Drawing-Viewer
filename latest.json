@@ -1,6 +1,7 @@
 {
-  "version": "10.8.0",
+  "version": "10.9.0",
   "maintenance": false,
-  "notes": "10/15/2025 Released. Speed up search and synch processes; Add status display during synch; Support advanced filtering of search results; Enhance user experience."
+  "notes": "10/21/2025 Released. Fixed an issue with the advanced filter."
 }
+
 
