@@ -1,7 +1,5 @@
 {
-  "version": "10.9.0",
+  "version": "11.1.0",
   "maintenance": false,
-  "notes": "10/21/2025 Released. Fixed an issue with the advanced filter."
+  "notes": "12/17/2025 Released. Added persistence for Search Preferences; added navigation for Batch Preview."
 }
-
-
