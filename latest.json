@@ -1,5 +1,6 @@
 {
-  "version": "11.1.0",
+  "version": "11.2.0",
   "maintenance": false,
-  "notes": "12/17/2025 Released. Added persistence for Search Preferences; added navigation for Batch Preview."
+  "notes": "1/6/2026 Released. Optimized the front-end code structure; fixed an issue where files failed to sync when testers switched the Vault environment."
 }
+
