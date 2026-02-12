@@ -1,6 +1,5 @@
 {
-  "version": "11.2.0",
+  "version": "12.0.0",
   "maintenance": false,
-  "notes": "1/6/2026 Released. Optimized the front-end code structure; fixed an issue where files failed to sync when testers switched the Vault environment."
+  "notes": "2/12/2026 Released. 1. New Features\n- Silent Service Mode: Config once, auto-start on boot.\n- One-Click Setup: New setup.bat handles everything.\n- Silent Auto-Update: Background service now updates itself automatically.\n\n2. Improvements\n- Version Display: Added version number in web header.\n- Smart Deployment: Desktop shortcuts now include version number."
 }
-
