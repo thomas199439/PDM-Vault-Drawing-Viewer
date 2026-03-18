@@ -1,7 +1,7 @@
 {
-  "version": "12.0.0",
+  "version": "12.2.0",
   "maintenance": false,
-  "notes": "2/12/2026 Released. \n1. New Features\n- Silent Service Mode: Config once, auto-start on boot.\n- One-Click Setup: New setup.bat handles everything.\n- Silent Auto-Update: Background service now updates itself automatically.\n\n2. Improvements\n- Version Display: Added version number in web header.\n- Smart Deployment: Desktop shortcuts now include version number."
+  "notes": "3/18/2026 Released. \nUser Feedback: Introduced a new user feedback feature, allowing users to submit suggestions and report issues directly within the app.\nImprovements: Polished various UI details and optimized overall performance for a smoother experience."
 }
 
 
