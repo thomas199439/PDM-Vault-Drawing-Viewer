@@ -1,5 +1,5 @@
 {
-  "version": "12.2.0",
+  "version": "12.1.0",
   "maintenance": false,
   "notes": "3/18/2026 Released. \nUser Feedback: Introduced a new user feedback feature, allowing users to submit suggestions and report issues directly within the app.\nImprovements: Polished various UI details and optimized overall performance for a smoother experience."
 }
