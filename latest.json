@@ -1,7 +1,7 @@
 {
-  "version": "12.3.0",
+  "version": "12.1.0",
   "maintenance": false,
-  "notes": "3/19/2026 Released. \nFixed Battery Mode: Background service now runs on battery power.\nFixed "Not Secure" Warning: SSL certificate is now automatically trusted by Chrome."
+  "notes": "3/19/2026 Released. \nFixed Battery Mode: Background service now runs on battery power.\nFixed "Not Secure" Warning: SSL certificate is now automatically trusted by Chrome"
 }
 
 
